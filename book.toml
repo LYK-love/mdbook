@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Life"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/LYK-love/mdbook"
