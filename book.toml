@@ -3,7 +3,7 @@ authors = ["LYK-love"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Life"
+title = "青春疼痛文学"
 
 [output.html]
 default-theme = "navy"
